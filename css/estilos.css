@@ -19,9 +19,9 @@ body
 }
 
 body{
-        color: red;
+        color: #333;
         text-align: left;
-        font-family: "Courier";
+        font-family: "Arial";
         font-size: 16px;
         margin: 0;
         padding: 0;
